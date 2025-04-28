@@ -1,7 +1,7 @@
 # 📄 Glitch Quality Analysis Project
 
 ## 📋 Overview
-This project involves performing descriptive analysis, creating glitch reports with specific color coding, and building a quality analysis dashboard using Excel features like PivotTables, Sparklines, Slicers, VLOOKUP, IF functions, and Charts.
+This project involves performing descriptive analysis, creating glitch reports with specific color coding, and building a quality analysis dashboard using Google Sheet features like PivotTables, Sparklines, Slicers, VLOOKUP, IF functions, and Charts.
 
 ---
 
