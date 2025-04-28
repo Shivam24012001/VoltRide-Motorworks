@@ -1,5 +1,11 @@
 # 📄 Glitch Quality Analysis Project
 
+## 🏢 Project Background
+VoltRide Motorworks, a bike manufacturing company, is concerned with the quality of its vehicles. The manufacturer tracks various parts supplied by different suppliers to identify and address quality issues. The goal is to understand how to analyze this data to make informed decisions about supplier performance and vehicle quality.
+
+## 🎯 Objective
+This analysis helps VoltRide Motorworks improve vehicle quality by identifying patterns in part glitches, assessing supplier impact, and supporting data-driven decisions. The insights will guide quality control, supplier management, and enhance customer satisfaction.
+
 ## 📋 Overview
 This project involves performing descriptive analysis, creating glitch reports with specific color coding, and building a quality analysis dashboard using Google Sheet features like PivotTables, Sparklines, Slicers, VLOOKUP, IF functions, and Charts.
 
